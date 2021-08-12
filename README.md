@@ -3,4 +3,4 @@
 Requires `pillow` and `wikipedia` python modules.
 Requires Calibri font.
 
-!(example.jpg)
+![When the amendment is eleventh](./example.jpg)
