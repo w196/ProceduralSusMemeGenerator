@@ -2,3 +2,5 @@
 
 Requires `pillow` and `wikipedia` python modules.
 Requires Calibri font.
+
+!(example.jpg)
